@@ -4,7 +4,7 @@
  * _isdigit - checks if the numbers recieved are 0 - 9
  * @c: char character to be checked
  * Return: 0 or 1
- *//
+ */
 
 int _isdigit(int c)
 {
