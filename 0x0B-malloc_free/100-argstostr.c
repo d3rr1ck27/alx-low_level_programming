@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdlib.b>
+#include <stdlib.h>
 /**
  * argstostr - main entry
  * @ac: int input
