@@ -1,3 +1,5 @@
+#ifndef "dog.h"
+#define "dog.h"
 #include <stdlib.h>
 #include "dog.h"
 /**
