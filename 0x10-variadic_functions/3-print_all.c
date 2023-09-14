@@ -5,7 +5,7 @@
  * print_all - prints anything
  * @fromat: lists of types of arguments passed to func
  */
-void print_all(const char * const fromat, ...)
+void print_all(const char * const format, ...)
 {
 	int i = 0;
 	char *str, *sep = "";
