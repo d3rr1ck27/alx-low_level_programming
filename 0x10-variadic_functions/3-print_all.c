@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * print_all - prints anything
- * @fromat: lists of types of arguments passed to func
+ * @format: lists of types of arguments passed to func
  */
 void print_all(const char * const format, ...)
 {
@@ -38,7 +38,7 @@ void print_all(const char * const format, ...)
 					i++;
 					continue;
 			}
-			sep = ",";
+			sep = ", ";
 			i++;
 		}
 	}
